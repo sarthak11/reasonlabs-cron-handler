@@ -10,6 +10,8 @@ This service responsibility is to hit the external url in every 5 mins , gather 
 
 ### Executing program
 
+Please ensure that reasonlabs-web-app service is up, otherwise fetched url's and their data will not be saved
+
 In the root directory of the project just do
 
 ```
